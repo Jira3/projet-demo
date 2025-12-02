@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Modification depuis main" 
+=======
+"Modification depuis branche1" 
+>>>>>>> branche1
